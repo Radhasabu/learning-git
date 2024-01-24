@@ -5,4 +5,5 @@ int main(){
 	cin>>n;
 	cout<<n;
 	cout<<"You are working on first program";
+	cout<<"undo commited changes using get revert";
 }
