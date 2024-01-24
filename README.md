@@ -1,2 +1,2 @@
 # learning-git
-learning-git repo
+learning-git repo demostration
